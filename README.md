@@ -55,3 +55,18 @@ The project addressed the power supply challenge in solar sailing satellites, wh
 </td>
 </tr>
 </table>
+
+
+## 5. Homography from scratch
+<table>
+<tr>
+
+<td width="70%">
+Investigated the impact of carbon fiber (CF) orientation on the tensile properties of Onyx-based composite materials to understand how fiber alignment affects mechanical performance. Specimens were 3D printed using the Continuous Fiber Reinforcement (CFR) process with CF orientations of 0°, 15°, 30°, and 45°, and tensile tests were performed following ASTM D638-14 standards. The findings highlight the significance of fiber alignment in enhancing tensile strength, demonstrating that CF reinforcement improves strength but reduces plasticity, making the material more brittle. This has implications for optimizing material design in applications requiring tailored mechanical properties.
+</td>
+
+<td>
+<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Images/CF.png" alt="CF" width="300"/>
+</td>
+</tr>
+</table>
