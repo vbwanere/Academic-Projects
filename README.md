@@ -71,21 +71,21 @@ Projecting Penn Engineering logo on Barcelona cup match goal net.
 </td>
 
 <td>
-<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Images/homography.png" alt="CF" width="500"/>
+<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Images/homography.png" alt="HG" width="500"/>
 </td>
 </tr>
 </table>
 
 
 
-## 5. Augmented Reality using April Tags
+## 6. Augmented Reality using April Tags
 <table>
 <tr>
 <td>
-<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Images/SPD.PNG" alt="SPD" width="500"/>
+<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Images/vis.png" alt="AR" width="300"/>
 </td>
 
-<td width="50%">
+<td width="70%">
 Python implementation of P3P and PnP algorithms for pose estimation and augmented reality task using april tags.
 
   # References:
