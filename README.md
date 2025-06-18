@@ -61,12 +61,17 @@ The project addressed the power supply challenge in solar sailing satellites, wh
 <table>
 <tr>
 
-<td width="70%">
-Investigated the impact of carbon fiber (CF) orientation on the tensile properties of Onyx-based composite materials to understand how fiber alignment affects mechanical performance. Specimens were 3D printed using the Continuous Fiber Reinforcement (CFR) process with CF orientations of 0°, 15°, 30°, and 45°, and tensile tests were performed following ASTM D638-14 standards. The findings highlight the significance of fiber alignment in enhancing tensile strength, demonstrating that CF reinforcement improves strength but reduces plasticity, making the material more brittle. This has implications for optimizing material design in applications requiring tailored mechanical properties.
+<td width="60%">
+Python implementation for homography.
+Projecting Penn Engineering logo on Barcelona cup match goal net.
+
+# References:
+1. Nayar, S. "Computing Homography | Image Stitching," YouTube, Mar 2, 2021. [Video file]. Available: https://www.youtube.com/watch?v=l_qjO4cM74o. [Accessed: Sept 5, 2023].
+2. Hartley, R. I. and Zisserman, A. (2004). Multiple View Geometry in Computer Vision (Second edition). Cambridge University Press. ISBN: 0521540518.
 </td>
 
 <td>
-<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Images/CF.png" alt="CF" width="300"/>
+<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Images/homography.png" alt="CF" width="500"/>
 </td>
 </tr>
 </table>
