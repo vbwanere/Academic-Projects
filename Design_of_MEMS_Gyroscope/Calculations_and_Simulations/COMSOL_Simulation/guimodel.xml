@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GuiModel dimension="3" viewDimension="1" guiView="POST" currentGeomSequence="geom1" currentMeshSequence="mesh1" currentTableFeature="std2EvgFrq" currentPlotGroupFeature="pg2" currentStudyFeature="std2" currentNode="/result/feature/pg2/feature/lngr1" lastWorkPlaneFeature="geom1/wp6">
+  <openWindows>
+    <string>MAINWINDOW</string>
+  </openWindows>
+  <subModelsTag>
+    <string>geom1</string>
+    <string>geom1/wp1</string>
+    <string>geom1/wp2</string>
+    <string>geom1/wp3</string>
+    <string>geom1/wp4</string>
+    <string>geom1/wp5</string>
+    <string>geom1/wp6</string>
+  </subModelsTag>
+  <subModelsLastDrawOrSketch>
+    <string>DRAW</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+    <string>DRAWSKETCH</string>
+  </subModelsLastDrawOrSketch>
+</GuiModel>
+
