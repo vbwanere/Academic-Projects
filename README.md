@@ -1,6 +1,6 @@
 # Academic Projects:
 
-## 1. Semiconductor Die Attach on Paper Substrate
+## 1. Semiconductor Die Attach on Flexible Substrate
 This study addresses the need for low-temperature die attach methods suitable for flexible substrates like Kapton and paper, commonly used in printed electronics. It investigates wire bonding and flip chip bonding techniques to attach a bare silicon MEMS resonator to a soil moisture sensor. The findings underscore the potential of alternative bonding techniques for temperature-sensitive and flexible electronics, highlighting the need for improved substrate preparation to enhance bonding reliability.
 
 
