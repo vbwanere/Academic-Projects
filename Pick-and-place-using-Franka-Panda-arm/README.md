@@ -12,11 +12,11 @@ This project implements the least square inverse kinematic solver for block-stac
 
 ## 2. Implementation and Working:
 ### See [UPenn MEAM 5200 Course GitHub Page](https://github.com/MEAM520/meam520_labs?tab=readme-ov-file) for detailed instructions on installing ROS, Gazebo and other dependencies.
-Once you have the environment set up, please refere to: this [report](https://github.com/vbwanere/Academic-Projects/blob/Pick-and-place-using-Franka-Panda-arm/blob/main/doc/Pick%20and%20Place%20with%20Franka%20Panda%20Arm-2023.pdf). It explains the steps involved in a successful implementation of the algorithm.
+Once you have the environment set up, please refere to: this [report](https://github.com/vbwanere/Academic-Projects/blob/main/Pick-and-place-using-Franka-Panda-arm/doc/Pick%20and%20Place%20with%20Franka%20Panda%20Arm-2023.pdf). It explains the steps involved in a successful implementation of the algorithm.
 
 
 ### 2.1 Pre-defined Configurations
-* Four intermediate configurations have been calculated and hard-coded into [```IntermediatePoints.py```](https://github.com/vbwanere/Pick-and-place-using-Franka-Panda-arm/blob/main/final/IntermediatePoints.py)
+* Four intermediate configurations have been calculated and hard-coded into [```IntermediatePoints.py```](https://github.com/vbwanere/Academic-Projects/blob/main/Pick-and-place-using-Franka-Panda-arm/final/IntermediatePoints.py)
 * Some examples of using them have been provided in the main function of ```IntermediatePoints.py```
 * The function to get the **IK solution** has also been wrapped in ```IntermediatePoints.py``` and some examples are also provided in the main function.
 * The intermediate configurations can be tuned manually, and we'd better tune them all together when needed. Also, a demo function of moving the arm with the pre-defined configurations is provided in the [```pick-place.py```](https://github.com/vbwanere/Pick-and-place-using-Franka-Panda-arm/blob/main/final/pick-place.py)
