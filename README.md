@@ -1,4 +1,18 @@
 # Academic Projects:
+
+## Pick and Place using Franka Panda Arm
+<table>
+<tr>
+<td>
+<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Pick-and-place-using-Franka-Panda-arm/doc/PickPlacePostarImage.png" alt="Die-Attach" width="600"/>
+</td>
+
+<td width="50%">
+</td>
+</tr>
+</table>
+
+
 ## 1. Mini AMR
 <table>
 <tr>
