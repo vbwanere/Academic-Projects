@@ -12,7 +12,7 @@ This project implements the least square inverse kinematic solver for block-stac
 
 ## 2. Implementation and Working:
 ### See [UPenn MEAM 5200 Course GitHub Page](https://github.com/MEAM520/meam520_labs?tab=readme-ov-file) for detailed instructions on installing ROS, Gazebo and other dependencies.
-Once you have the environment set up, please refere to: this [report](https://github.com/vbwanere/Pick-and-place-using-Franka-Panda-arm/blob/main/doc/Pick%20and%20Place%20with%20Franka%20Panda%20Arm-2023.pdf). It explains the steps involved in a successful implementation of the algorithm.
+Once you have the environment set up, please refere to: this [report](https://github.com/vbwanere/Academic-Projects/blob/Pick-and-place-using-Franka-Panda-arm/blob/main/doc/Pick%20and%20Place%20with%20Franka%20Panda%20Arm-2023.pdf). It explains the steps involved in a successful implementation of the algorithm.
 
 
 ### 2.1 Pre-defined Configurations
