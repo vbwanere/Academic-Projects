@@ -2,7 +2,7 @@
 
 ## 1. Overview
 This project implements the least square inverse kinematic solver for block-stacking using a Franka Panda robotic arm:
-![PickPlacePostar](https://github.com/vbwanere/Pick-and-place-using-Franka-Panda-arm/blob/main/doc/PickPlacePostarImage.png)
+![PickPlacePostar](https://github.com/vbwanere/Academic-Projects/blob/main/Pick-and-place-using-Franka-Panda-arm/doc/PickPlacePostarImage.png)
 
 ### 1.1 Key Features
 - **Path Planning**: Uses pre-defined configurations to optimize IK solving time.
