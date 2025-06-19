@@ -14,7 +14,7 @@ Inverse Kinematic solver in python to control the Franka Panda Arm for block sta
 </table>
 
 
-## 1. Mini AMR
+## Mini AMR
 <table>
 <tr>
 <td width="50%">
@@ -28,7 +28,7 @@ The team developed a two-tiered robot using IR-retroreflective sensors, IR photo
 </table>
 
 
-## 2. Semiconductor Die Attach on Flexible Substrate
+## Semiconductor Die Attach on Flexible Substrate
 <table>
 <tr>
 <td>
@@ -43,7 +43,7 @@ This study addresses the need for low-temperature die attach methods suitable fo
 
 
 
-## 3. CFR 3D Printing of Onyx-Based Composites
+## CFR 3D Printing of Onyx-Based Composites
 <table>
 <tr>
 
@@ -58,7 +58,7 @@ Investigated the impact of carbon fiber (CF) orientation on the tensile properti
 </table>
 
 
-## 4. Solar Panel Deployment Mechanism
+## Solar Panel Deployment Mechanism
 <table>
 <tr>
 <td>
@@ -72,7 +72,7 @@ The project addressed the power supply challenge in solar sailing satellites, wh
 </table>
 
 
-## 5. Homography from scratch
+## Homography from scratch
 <table>
 <tr>
 
@@ -93,7 +93,7 @@ Projecting Penn Engineering logo on Barcelona cup match goal net.
 
 
 
-## 6. Augmented Reality using April Tags
+## Augmented Reality using April Tags
 <table>
 <tr>
 <td>
@@ -113,7 +113,7 @@ Python implementation of P3P and PnP algorithms for pose estimation and augmente
 
 
 
-## 7. NeRF
+## NeRF
 <tr>
 
 <td width="20%">
