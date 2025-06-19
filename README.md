@@ -106,7 +106,7 @@ NeRF
 </td>
 
 <td>
-<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Images/NeRF.png" alt="NeRF" width="200"/>
+<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Images/NeRF.png" alt="NeRF" width="1000"/>
 </td>
 </tr>
 </table>
