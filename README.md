@@ -4,7 +4,11 @@
 <table>
 <tr>
 <td>
-<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Pick-and-place-using-Franka-Panda-arm/doc/PickPlacePostarImage.png" alt="Die-Attach" width="1000"/>
+<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Pick-and-place-using-Franka-Panda-arm/doc/PickPlacePostarImage.png" alt="Die-Attach" width="600"/>
+</td>
+
+<td width="40%">
+Inverse Kinematic solver in python to control the Franka Panda Arm for block stacking tasks. The camera detects the block pose using April Tags.
 </td>
 </tr>
 </table>
