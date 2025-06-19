@@ -7,7 +7,7 @@
 <img src="https://github.com/vbwanere/Academic-Projects/blob/main/Pick-and-place-using-Franka-Panda-arm/doc/PickPlacePostarImage.png" alt="Die-Attach" width="500"/>
 </td>
 
-<td width="40%">
+<td width="50%">
 Inverse Kinematic solver in python to control the Franka Panda Arm for block stacking tasks. The camera detects the block pose using April Tags.
 </td>
 </tr>
