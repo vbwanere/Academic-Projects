@@ -101,12 +101,12 @@ Python implementation of P3P and PnP algorithms for pose estimation and augmente
 ## 7. NeRF
 <tr>
 
-<td width="60%">
+<td width="20%">
 NeRF
 </td>
 
 <td>
-<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Images/NeRF.png" alt="NeRF" width="500"/>
+<img src="https://github.com/vbwanere/Academic-Projects/blob/main/Images/NeRF.png" alt="NeRF" width="800"/>
 </td>
 </tr>
 </table>
