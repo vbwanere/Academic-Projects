@@ -18,7 +18,7 @@ Inverse Kinematic solver in python to control the Franka Panda Arm for block sta
 <table>
 <tr>
 <td width="50%">
-The team developed a two-tiered robot using IR-retroreflective sensors, IR photodiode with potentiometers, and a Vive tracking system, powered by a dual system (power bank for ESP32, 9V batteries for motors) with completely soldered circuits for robustness. Implementation involved an ESP32-S2 Wrover microprocessor controlling a two-wheel drive system with TT motors, neutral steering, and adaptive behaviors like auto-reverse when stuck. The robot performed excellently across all tasks: achieving smooth wall following with seamless obstacle avoidance.
+The team developed an AMR using IR-retroreflective sensors, IR photodiode with potentiometers, and a Vive tracking system, powered by a dual system (power bank for ESP32, 9V batteries for motors) with completely soldered circuits for robustness. Implementation involved an ESP32-S2 Wrover microprocessor controlling a two-wheel drive system with TT motors, neutral steering, and adaptive behaviors like auto-reverse when stuck. The robot performed excellently across all tasks: achieving smooth wall following with seamless obstacle avoidance.
 </td>
 
 <td>
